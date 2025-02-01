@@ -1,1 +1,3 @@
 The miniquest
+name - chanhue
+sub - computer engineering
