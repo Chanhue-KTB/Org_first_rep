@@ -2,3 +2,6 @@ The miniquest
 대외활동 -
 자격증 - 
 사용기술 - 
+
+name - chanhue
+sub - computer engineering
